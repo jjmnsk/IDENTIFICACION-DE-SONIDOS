@@ -1,0 +1,43 @@
+body
+{
+    font-family: 'Special Elite', cursive;
+    background: #f5dbda;
+}
+
+.header_div
+{
+    background: white;
+    color: red;
+    text-shadow: 5px 5px 5px rgb(212, 134, 134);
+}
+
+.header_div p
+{
+    font-family: 'Rajdhani', sans-serif;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div bottom
+{
+    font-family: 'Rajdhani', sans-serif;
+    margin-top: 30 px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: snow;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
